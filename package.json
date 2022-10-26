@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node script1.js",
-    "build": "run build"
+    "build": "build"
   },
   "bin": {
     "script1": "bin/script1.js"
