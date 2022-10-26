@@ -1,0 +1,17 @@
+body {
+  background-color: #463f3a;
+  color: #f4f3ee;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+ul {
+  list-style: none;
+}
+
+.user:hover {
+  cursor: pointer;
+  color: #8a817c;
+}
